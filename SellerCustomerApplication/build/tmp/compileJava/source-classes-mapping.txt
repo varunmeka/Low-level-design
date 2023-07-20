@@ -1,0 +1,18 @@
+model/Customer.java
+ model.Customer
+model/Seller.java
+ model.Seller
+model/Post.java
+ model.Post
+repository/SellerRepository.java
+ repository.SellerRepository
+model/Product.java
+ model.Product
+repository/CustomerRepository.java
+ repository.CustomerRepository
+repository/PostRepository.java
+ repository.PostRepository
+service/PostService.java
+ service.PostService
+SellerCustomerAppliation.java
+ SellerCustomerAppliation

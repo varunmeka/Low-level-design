@@ -1,0 +1,20 @@
+Service/DocumentService.java
+ Service.DocumentService
+Service/impl/ColdTierDocumentService.java
+ Service.impl.ColdTierDocumentService
+model/User.java
+ model.User
+DocumentApplication.java
+ DocumentApplication
+model/Pair.java
+ model.Pair
+Service/DocumentServiceFactory.java
+ Service.DocumentServiceFactory
+model/Document.java
+ model.Document
+Service/impl/HotTierDocumentService.java
+ Service.impl.HotTierDocumentService
+model/DocumentType.java
+ model.DocumentType
+model/AccessType.java
+ model.AccessType
